@@ -1,0 +1,21 @@
+Read Me File 
+Job Application Popup Plugin
+This WordPress plugin allows you to display a job application form in a centered popup window when a button is clicked. The form collects essential information from applicants and can be customized to fit your specific job needs.
+
+Features
+Displays job cards with job information.
+Popup form triggered by clicking a button.
+User-friendly, mobile-responsive design.
+Easy to use with a simple shortcode.
+Form submission with customizable fields.
+Installation
+Download the plugin ZIP file.
+Log into your WordPress admin dashboard.
+Navigate to Plugins > Add New.
+Click Upload Plugin and select the ZIP file.
+Click Install Now, and then Activate the plugin.
+
+
+Short Code :
+
+[job_cards]
